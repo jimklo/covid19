@@ -3,11 +3,24 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - branca=0.3.1
+  - fiona=1.8.13
+  - folium=0.10.1
+  - geopandas=0.7.0
+  - ipykernel=5.1.4
+  - ipyleaflet=0.12.3
+  - ipywidgets=7.5.1
+  - jedi=0.16.0
+  - jinja2=2.11.1
   - jupyter=1.0.0
   - jupyterlab=2.0.0
+  - matplotlib=3.2.0
+  - munch=2.5.0
+  - nbconvert=5.6.1
   - numpy=1.18.1
   - pandas=1.0.1
   - pip=20.0.2
   - python=3.8.2
+  - requests=2.23.0
 prefix: /usr/local/anaconda3/envs/covid19
 
